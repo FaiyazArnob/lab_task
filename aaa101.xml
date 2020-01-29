@@ -1,0 +1,29 @@
+<admission>
+	<student>
+		<sl> 23 </sl>
+		<name> John carter </name>
+		<admissionDate>
+			<date> 25 </date>
+			<month> 12 </month>
+			<year> 2015 <year>
+		</admissionDate>
+	</student>
+	<student>
+		<sl> 23 </sl>
+		<name> John carter </name>
+		<admissionDate>
+			<date> 25 </date>
+			<month> 12 </month>
+			<year> 2015 <year>
+		</admissionDate>
+	</student>
+	<student>
+		<sl> 23 </sl>
+		<name> John carter </name>
+		<admissionDate>
+			<date> 25 </date>
+			<month> 12 </month>
+			<year> 2015 <year>
+		</admissionDate>
+	</student>
+</admission>
